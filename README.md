@@ -1,2 +1,2 @@
 # godot-export-tools
-Godot export tools
+Tools for exporting Godot games in CI/CD pipelines
